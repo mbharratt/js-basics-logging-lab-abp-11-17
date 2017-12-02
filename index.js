@@ -1,3 +1,3 @@
 const driver = 'bob';
 
-expect(spy.calledWithExactly('this code was called')).to.be.true
+expect(spy.calledWithExactly('this code was called')).to.be.true;
